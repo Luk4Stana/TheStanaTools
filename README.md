@@ -1,5 +1,5 @@
 # TheStanaTools
-A bunch of scripts I wrote to make managing my rooted Android easier. 
+A bunch of scripts I wrote to make managing my rooted Samsung easier. 
 
 ## What's inside
 - **Fix Permissions**: Quick way to set 644 permissions and fix ownership (root:root) for system files.
