@@ -12,8 +12,7 @@ A bunch of scripts I wrote to make managing my rooted Android easier.
 3. Navigate to the `bin` folder.
 4. Run the main script:
 ```bash
-   sh stanatools.sh
-
+sh stanatools.sh
 
 
 Setup
