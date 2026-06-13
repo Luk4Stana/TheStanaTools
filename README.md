@@ -13,13 +13,3 @@ A bunch of scripts I wrote to make managing my rooted Android easier.
 4. Run the main script:
 ```bash
 sh stanatools.sh
-
-
-Setup
-Just add the package names you want to kill in config/bloatware.list (one per line).
-
-Requirements
-Root access.
-
-(don't disable random system apps if you don't know what they do).
-Built for personal use, but feel free to fork if it helps you.
